@@ -31,7 +31,7 @@ then run ->
 now open another tab and run
 
 ```bash
-    cd backend
+    cd frontend
 ```
 then
 
